@@ -1,81 +1,117 @@
-Tab 1
-ASSALAM O ALAIKUM
-Just Read All Instructions Then You Can Open Your Number Unban Your Hard Number In
-2 Days Video Need So We Are Update At The Last Okay✓
-SETUP FIRST 󰜼
-1
-CREATE 5 FRESH GMAILS
-_
-2
-DOWNLOAD DUCK DUCK BROWSER FROM PLAYSTORE
-_
-3
-OPEN BROWSER
-_
-4
-_
-5
-GO TO THE WEBSITE: https://mail.google.com/mail
-LOGIN YOUR GMAIL ANYONE FROM 5
-_
-6
-THEN CONTACT FROM WHATSAPP SUPPORT
-_
-7
-WHATSAPP SUPPORT ADDRESS:
-_
-android
-_
-web@support.whatsapp.com
-support@support.whatsapp.com
-android@whatsapp.com
-android@support.whatsapp.com
-smb@support.whatsapp.com
-8
-WORKING UNBAN MAIL 1st:
-_
-Mi cuenta de Whatsapp ha sido desactivada sin previo aviso no es nada aceptable He estado
-usando el servicio Whatsapp desde hace un tiempo de manera adecuada, sin enviar mensajes
-spam ni mensajes no solicitados e inapropiados, y dicho esto, han logrado cerrar mi cuenta sin
-previo…. aviso Por favor tome en consideración mi caso y consígame una excepción de la alta
-dirección. Mi número de teléfono es .
-+92*********
-😭😭😭😭🙏🙏🙏🙏🙏🙏🙏🙏😭😭😭😭😭😭😭😭😭😭😭😭
-9
-WORKING UNBAN MAIL 2ND:
-_
-Saya adalah pengguna aplikasi WhatsApp dengan nomor +92********
-. saya mengunakan
-aplikasi WhatsApp messenger dan saya mengunakan aplikasi WhatsApp untuk menghubungi
-keluarga saya, saya sudah menggunakan aplikasi WhatsApp resmi yang ada di play store dan
-app store, saya juga selalu membaca FAQ dan ketentuan WhatsApp tetapi mengapa akun
-WhatsApp saya di blokir oleh pihak WhatsApp tanpa alasan yang jelas, mohon untuk di
-pulihkan kembali. Terimakasih
-Я прошу вас разблокировать мой номер и надеюсь, что вы просмотрите его вручную и как
-можно быстрее, потому что я хочу проверить свою семью в Израиле, потому что они
-находятся в состоянии войны, и я сейчас говорю с вами из Соединенных Штатов.
-Америки. Надеюсь, вы оцените мою позицию и снимете запрет на мой номер, чтобы
-помочь Израилю. Спасибо. Это номер. Мой заблокированный аккаунт в WhatsApp
-(+92**********)
-Halo! Tim WhatsApp,
-Akun WhatsApp saya adalah
-Diblokir. Maaf, saya punya
-menginstal aplikasi Pihak Ketiga
-Karena kesalahan. Silahkan buka blokir
-akun saya segera. ini nomor saya [+92******]
-Dear whatsapp support team
-I have received a Spam Ban from whatsapp to my primary number. As per the WhatsApp
-regulations i didn't anything against it. In other words i got ban for no reason. Its my primary and
-main number +92******
-and i have a lot of educational things on my this number because i am
-an studeni and i don't have much enough money to buy new sim/chip number. kindly review my
-number and unban it please.
-requesting whatsapp support team for review my number +92********
-10
-_
-WORKING 💯
-USE THIS SCRIPT FOR UNBAN YOUR PERMANENT NUMBER IN FEW DAYS
-FULLY EXPLAIN VIDEO IS HERE
-ALL CREDIT GOING TO PXA TEAM
-Tab 2# Website-
-Hacking 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Number Information Website</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #1d2671, #c33764);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+            color: #fff;
+        }
+
+        .container {
+            background: rgba(0, 0, 0, 0.4);
+            padding: 25px;
+            border-radius: 12px;
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        input {
+            width: 100%;
+            padding: 12px;
+            border-radius: 6px;
+            border: none;
+            font-size: 16px;
+            margin-bottom: 15px;
+        }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            border: none;
+            border-radius: 6px;
+            background: #ff9800;
+            color: #000;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #ffc107;
+        }
+
+        .result {
+            margin-top: 20px;
+            text-align: left;
+            font-size: 15px;
+        }
+
+        .result p {
+            margin: 6px 0;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Number Information</h1>
+
+    <input type="number" id="num" placeholder="Enter a number">
+    <button onclick="getInfo()">Get Information</button>
+
+    <div class="result" id="output"></div>
+</div>
+
+<script>
+    function isPrime(n) {
+        if (n <= 1) return false;
+        for (let i = 2; i <= Math.sqrt(n); i++) {
+            if (n % i === 0) return false;
+        }
+        return true;
+    }
+
+    function getInfo() {
+        let num = Number(document.getElementById("num").value);
+        let output = document.getElementById("output");
+
+        if (isNaN(num)) {
+            output.innerHTML = "<p>Please enter a valid number.</p>";
+            return;
+        }
+
+        let evenOdd = (num % 2 === 0) ? "Even" : "Odd";
+        let sign = num > 0 ? "Positive" : num < 0 ? "Negative" : "Zero";
+        let prime = isPrime(Math.abs(num)) ? "Yes" : "No";
+        let digits = Math.abs(num).toString().length;
+
+        output.innerHTML = `
+            <p><b>Number:</b> ${num}</p>
+            <p><b>Type:</b> ${evenOdd}</p>
+            <p><b>Sign:</b> ${sign}</p>
+            <p><b>Prime:</b> ${prime}</p>
+            <p><b>Square:</b> ${num * num}</p>
+            <p><b>Cube:</b> ${num * num * num}</p>
+            <p><b>Total Digits:</b> ${digits}</p>
+        `;
+    }
+</script>
+
+</body>
+</html>
